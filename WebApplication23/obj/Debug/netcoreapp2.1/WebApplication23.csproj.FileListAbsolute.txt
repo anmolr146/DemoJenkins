@@ -1,0 +1,64 @@
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.deps.json
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.json
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.dev.json
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.dll
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.pdb
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.Views.dll
+D:\Training\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.Views.pdb
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csprojAssemblyReference.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csproj.CoreCompileInputs.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfoInputs.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfo.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.TagHelpers.input.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.TagHelpers.output.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorCoreGenerate.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorTargetAssemblyInfo.cache
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorTargetAssemblyInfo.cs
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.Views.pdb
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.dll
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.pdb
+D:\Training\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csproj.CopyComplete
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.deps.json
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.json
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.runtimeconfig.dev.json
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.dll
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.pdb
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.Views.dll
+D:\Training\New folder\WebApplication23\WebApplication23\bin\Debug\netcoreapp2.1\WebApplication23.Views.pdb
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csprojAssemblyReference.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csproj.CoreCompileInputs.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorAssemblyInfo.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfoInputs.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.AssemblyInfo.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.TagHelpers.input.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.TagHelpers.output.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorCoreGenerate.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorTargetAssemblyInfo.cache
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.RazorTargetAssemblyInfo.cs
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.Views.pdb
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.dll
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.pdb
+D:\Training\New folder\WebApplication23\WebApplication23\obj\Debug\netcoreapp2.1\WebApplication23.csproj.CopyComplete
